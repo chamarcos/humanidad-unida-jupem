@@ -1,7 +1,7 @@
-{
-  "name": "package.json",
+{{
+  "name": "recovery-humanidad-unida-jupem",
   "version": "1.0.0",
-  "description": "Recovery System Humanidad-UNIDA-JUPEM",
+  "description": "Sistema de Recuperación Humanidad-UNIDA-JUPEM",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
