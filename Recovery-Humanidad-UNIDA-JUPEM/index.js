@@ -8,7 +8,7 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>Recovery System Humanidad-UNIDA-JUPEM</h1>
+    <h1>index.js</h1>
     <form method="POST" action="/recover">
       <label for="email">Correo electrónico:</label><br>
       <input type="email" name="email" required><br><br>
